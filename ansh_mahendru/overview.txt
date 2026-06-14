@@ -17,9 +17,6 @@ Target Audience:
 Platform:
 Web (Desktop-first with responsive mobile support)
 
-Budget Tier:
-100 to 150 USD (Larger task involving multi-page site design and full feature set)
-
 Key Deliverables Expected from Seller:
 - Homepage design with featured games section
 - Game library/catalog page
