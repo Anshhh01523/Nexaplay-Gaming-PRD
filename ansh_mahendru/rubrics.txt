@@ -1,0 +1,324 @@
+Rubrics: Online Gaming Website for NexaPlay
+Scoring Scale: 0 to 10 per item
+0 = Not delivered or unusable
+1-3 = Major problems, core requirement missed
+4-5 = Partial work, significant gaps remain
+6-7 = Most of the requirement is met, only minor issues remain
+8-9 = High quality, goes slightly beyond the baseline
+10 = Excellent, nothing is missing, nothing needs to change
+
+---
+
+RUBRIC ITEMS
+
+ID: source_file_delivered
+Description: The seller delivers one editable source file in Figma (.fig) or Adobe XD (.xd) format.
+Score: /10
+Note:
+
+---
+
+ID: all_seven_pages_present
+Description: The source file contains all seven required pages: Homepage, Game Catalog, Game Detail, Register, Login, Profile Dashboard, and Leaderboard.
+Score: /10
+Note:
+
+---
+
+ID: desktop_canvas_width
+Description: All page designs use a canvas width of 1440px for the desktop version.
+Score: /10
+Note:
+
+---
+
+ID: homepage_navbar
+Description: The Homepage includes a navigation bar with a logo and links to Catalog, Leaderboard, Login, and Sign Up.
+Score: /10
+Note:
+
+---
+
+ID: homepage_hero_banner
+Description: The Homepage includes a hero banner with a featured game image, a headline, a subheadline, and a "Play Now" button.
+Score: /10
+Note:
+
+---
+
+ID: homepage_featured_games_grid
+Description: The Homepage includes a "Featured Games" section showing at least 6 game cards in a grid layout.
+Score: /10
+Note:
+
+---
+
+ID: homepage_genre_filter
+Description: The Homepage includes a genre filter row with at least 5 genre tags.
+Score: /10
+Note:
+
+---
+
+ID: homepage_footer
+Description: The Homepage includes a footer with links to About, Contact, Privacy Policy, and Terms of Use.
+Score: /10
+Note:
+
+---
+
+ID: catalog_game_cards
+Description: The Game Catalog page displays a grid of at least 12 game cards, each showing a thumbnail, title, genre tag, and star rating out of 5.
+Score: /10
+Note:
+
+---
+
+ID: catalog_filter_options
+Description: The Game Catalog page includes a filter bar or sidebar with options for Genre, Rating, and Popularity.
+Score: /10
+Note:
+
+---
+
+ID: catalog_search_bar
+Description: The Game Catalog page includes a search bar at the top of the page.
+Score: /10
+Note:
+
+---
+
+ID: game_detail_title_heading
+Description: The Game Detail page displays the game title as a heading at the top of the page.
+Score: /10
+Note:
+
+---
+
+ID: game_detail_preview_image
+Description: The Game Detail page includes a large game preview image or banner placed below the heading.
+Score: /10
+Note:
+
+---
+
+ID: game_detail_description
+Description: The Game Detail page includes a description section with at least 3 lines of placeholder text.
+Score: /10
+Note:
+
+---
+
+ID: game_detail_play_button
+Description: The Game Detail page includes a "Play Now" button placed directly below the description section.
+Score: /10
+Note:
+
+---
+
+ID: game_detail_rating_display
+Description: The Game Detail page includes a star rating display showing the current game rating.
+Score: /10
+Note:
+
+---
+
+ID: game_detail_comments_section
+Description: The Game Detail page includes a comments or reviews section at the bottom with at least 2 placeholder comments.
+Score: /10
+Note:
+
+---
+
+ID: register_form_fields
+Description: The Registration page includes form fields for Username, Email, Password, Confirm Password, and Date of Birth.
+Score: /10
+Note:
+
+---
+
+ID: register_submit_button
+Description: The Registration page includes a "Create Account" submit button.
+Score: /10
+Note:
+
+---
+
+ID: register_login_link
+Description: The Registration page includes a link that reads "Already have an account? Log In".
+Score: /10
+Note:
+
+---
+
+ID: login_form_fields
+Description: The Login page includes form fields for Email and Password.
+Score: /10
+Note:
+
+---
+
+ID: login_submit_button
+Description: The Login page includes a "Log In" submit button.
+Score: /10
+Note:
+
+---
+
+ID: login_forgot_password_link
+Description: The Login page includes a "Forgot Password?" link placed below the password field.
+Score: /10
+Note:
+
+---
+
+ID: login_signup_link
+Description: The Login page includes a link that reads "Don't have an account? Sign Up".
+Score: /10
+Note:
+
+---
+
+ID: profile_user_info
+Description: The Profile Dashboard page displays a user avatar placeholder, username, and join date.
+Score: /10
+Note:
+
+---
+
+ID: profile_stats_section
+Description: The Profile Dashboard page includes a stats section showing Total Games Played, Total Score, and Rank.
+Score: /10
+Note:
+
+---
+
+ID: profile_recent_games
+Description: The Profile Dashboard page includes a "Recent Games" section listing at least 3 games with title, score, and date played.
+Score: /10
+Note:
+
+---
+
+ID: profile_achievements_section
+Description: The Profile Dashboard page includes an "Achievements" section showing at least 3 badge placeholders with labels.
+Score: /10
+Note:
+
+---
+
+ID: leaderboard_table_columns
+Description: The Leaderboard page contains a table with the five required columns: Rank, Username, Game Title, Score, and Date.
+Score: /10
+Note:
+
+---
+
+ID: leaderboard_table_rows
+Description: The Leaderboard table contains at least 10 rows of placeholder data.
+Score: /10
+Note:
+
+---
+
+ID: leaderboard_filter_dropdown
+Description: The Leaderboard page includes a filter dropdown to select the game title for which the leaderboard is displayed.
+Score: /10
+Note:
+
+---
+
+ID: dark_background_applied
+Description: A dark background color is applied consistently across all seven pages.
+Score: /10
+Note:
+
+---
+
+ID: accent_color_used
+Description: At least one vibrant accent color is used consistently across all seven pages.
+Score: /10
+Note:
+
+---
+
+ID: heading_font_applied
+Description: A bold sans-serif font is used for all headings across all seven pages.
+Score: /10
+Note:
+
+---
+
+ID: body_font_applied
+Description: A clean readable font is used for body text across all seven pages.
+Score: /10
+Note:
+
+---
+
+ID: button_hover_states
+Description: All buttons show both a default state and a hover state in the design.
+Score: /10
+Note:
+
+---
+
+ID: card_hover_states
+Description: All game cards show both a default state and a hover state in the design.
+Score: /10
+Note:
+
+---
+
+ID: desktop_png_exports
+Description: All 7 desktop PNG exports are present with the exact file names: homepage.png, catalog.png, game_detail.png, register.png, login.png, profile.png, leaderboard.png.
+Score: /10
+Note:
+
+---
+
+ID: mobile_png_exports
+Description: Both mobile PNG exports are present with the exact file names: homepage_mobile.png and catalog_mobile.png, each at 375px width.
+Score: /10
+Note:
+
+---
+
+ID: style_guide_colors
+Description: The style guide page in the source file shows primary and accent color swatches with hex codes.
+Score: /10
+Note:
+
+---
+
+ID: style_guide_typography
+Description: The style guide page shows heading font name with sizes for H1, H2, and H3, and body font name with size.
+Score: /10
+Note:
+
+---
+
+ID: style_guide_button_styles
+Description: The style guide page shows button styles for both default and hover states.
+Score: /10
+Note:
+
+---
+
+ID: style_guide_card_component
+Description: The style guide page shows the game card component in both default and hover states.
+Score: /10
+Note:
+
+---
+
+ID: navbar_consistent_across_pages
+Description: Every page includes a navigation bar matching the one described in the Homepage requirements.
+Score: /10
+Note:
+
+---
+
+OVERALL SCORE: /10
+
+OVERALL JUSTIFICATION:

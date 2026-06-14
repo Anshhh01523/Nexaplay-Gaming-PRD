@@ -1,0 +1,58 @@
+Scope of Work: Online Gaming Website for NexaPlay
+
+1. IN SCOPE
+
+1.1 Page Design and Layout
+- Homepage: Hero banner with featured/trending games, navigation bar, search bar, genre filter, and footer.
+- Game Catalog Page: Grid-based listing of all available games with filters for genre, rating, and popularity.
+- Game Detail Page: Game title, description, thumbnail/preview, play button, ratings, and comments section.
+- User Registration Page: Sign-up form with fields for username, email, password, and date of birth.
+- User Login Page: Login form with email and password fields, and a "Forgot Password" link.
+- User Profile and Dashboard Page: Display username, avatar, game history, achievements, and stats.
+- Leaderboard Page: Top players listed by score with rank, username, score, and game title columns.
+
+1.2 Features
+- Functional navigation menu linking all main pages.
+- Search bar that filters games by title or genre keyword.
+- Genre/category filter tabs on the game catalog page.
+- Responsive layout that adapts to desktop (1280px+), tablet (768px), and mobile (375px) screen sizes.
+- A consistent color scheme and typography system used across all pages.
+- Hover and active states for all interactive elements including buttons, cards, and links.
+- A "Play Now" call-to-action button on the homepage hero section and on each game detail page.
+
+1.3 Visual Design Direction
+- Dark theme with vibrant accent colors (neon blue, electric green, or similar gaming palette).
+- Bold sans-serif fonts for headings and clean readable fonts for body text.
+- Game thumbnail cards with title, genre tag, and rating displayed on each card.
+- Icon set consistent with a modern gaming aesthetic.
+
+1.4 Deliverables from Seller
+- High-fidelity UI designs for all seven pages listed above (in Figma, Adobe XD, or equivalent).
+- Exported PNG or JPG previews of each page at desktop resolution (1440px wide).
+- A mobile version preview for at least the homepage and game catalog page.
+- A style guide page showing colors, fonts, button states, and card components.
+
+2. OUT OF SCOPE
+
+- Backend development or server-side logic.
+- Database design or integration.
+- Actual game development or embedding of playable games.
+- Payment gateway or in-app purchase system.
+- Email or SMS notification system.
+- Third-party API integrations (social login, analytics, etc.).
+- Content creation (writing game descriptions, sourcing game images).
+- Search engine optimization (SEO) implementation.
+- Accessibility audit or WCAG compliance review.
+- Any work beyond the seven pages listed in section 1.1.
+
+3. ASSUMPTIONS
+
+- The seller will use placeholder game images and names for mockup purposes.
+- The client logo and brand name "NexaPlay" will be provided by the client as a text reference only.
+- The seller is responsible for sourcing or creating placeholder game thumbnail images used in designs.
+- All design files must be delivered in an editable format compatible with Figma or Adobe XD.
+
+4. TIMELINE
+
+- Expected Delivery Time: 5 to 7 business days
+- Revisions: Up to 2 rounds of revisions are included within this scope.
