@@ -1,0 +1,31 @@
+Project Title: Online Gaming Website
+
+Project Overview:
+This project involves designing and developing a fully functional Online Gaming Website for a fictional client called "NexaPlay". NexaPlay is a startup gaming brand targeting casual and mid-core gamers aged 16 to 35. The platform aims to provide users with a seamless browser-based gaming experience, including game discovery, user accounts, leaderboards, and social features.
+
+Client Background:
+NexaPlay wants to launch an engaging web platform where users can browse, play, and track progress on a variety of casual and multiplayer browser games. The platform must feel modern, fast, and visually appealing to attract and retain a younger demographic.
+
+Goal:
+The goal of this project is to produce a complete Product Requirements Document (PRD), supporting assets, and a rubric that can be used to evaluate a Fiverr seller's ability to design or develop this Online Gaming Website. The PRD must define the full scope of the website including its pages, features, user flows, technical requirements, and visual design direction.
+
+Target Audience:
+- Casual gamers aged 16 to 35
+- Users who enjoy browser-based gaming without downloads
+- Competitive users interested in leaderboards and achievements
+
+Platform:
+Web (Desktop-first with responsive mobile support)
+
+Budget Tier:
+100 to 150 USD (Larger task involving multi-page site design and full feature set)
+
+Key Deliverables Expected from Seller:
+- Homepage design with featured games section
+- Game library/catalog page
+- Individual game detail page
+- User registration and login pages
+- User profile and dashboard page
+- Leaderboard page
+- Responsive layout for mobile and tablet screens
+- Design assets or front-end code as agreed in scope
